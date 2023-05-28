@@ -2,7 +2,8 @@
 
 Welcome to the Todo App! This application helps you stay organized and manage your tasks effectively.
 
-![Todo App](<img width="1439" alt="Screen Shot 2023-05-27 at 10 33 42 PM" src="https://github.com/Fernandoleano/Todo-App-TS/assets/68082556/d7b69290-85f4-4883-9ae7-fdf05f5681eb">)
+![Todo App]
+<img width="1439" alt="Screen Shot 2023-05-27 at 10 33 42 PM" src="https://github.com/Fernandoleano/Todo-App-TS/assets/68082556/86e4e27e-b0d4-4862-872e-120a82ae0af9">
 
 ## Features
 
