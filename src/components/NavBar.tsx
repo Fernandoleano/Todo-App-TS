@@ -6,7 +6,7 @@ const NavBar: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex justify-between">
           <div className="flex items-center">
-            <span className="text-white text-lg font-semibold">Fernando Todo App</span>
+            <span className="text-white text-lg font-semibold">TaskMaster</span>
           </div>
           <div className="flex items-center">
             <button className="bg-gray-700 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white">
