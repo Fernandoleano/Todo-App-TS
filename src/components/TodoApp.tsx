@@ -109,7 +109,7 @@ const TodoApp: React.FC = () => {
   return (
     <div className="bg-gray-900 min-h-screen flex flex-col justify-center items-center">
       <div className="max-w-lg w-full mx-4 p-4 bg-gray-800 rounded-lg shadow-lg">
-        <h1 className="text-2xl font-bold text-white mb-4">TaskMasterp</h1>
+        <h1 className="text-2xl font-bold text-white mb-4">TaskMaster</h1>
         <div className="flex mb-4">
           <input
             type="text"
