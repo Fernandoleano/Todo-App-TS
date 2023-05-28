@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
           <div className="text-center md:text-left">
             <h4 className="text-lg font-semibold text-white mb-2">Our Mission</h4>
             <p className="text-sm text-gray-400">
-              At Fernando Todo App, we are dedicated to helping you stay organized, focused, and achieve your goals. We provide a user-friendly platform to manage your tasks effectively, prioritize your work, and make progress towards your objectives. Let us be your companion on your journey to success.
+              At TaskMaster, we are dedicated to helping you stay organized, focused, and achieve your goals. We provide a user-friendly platform to manage your tasks effectively, prioritize your work, and make progress towards your objectives. Let us be your companion on your journey to success.
             </p>
           </div>
           <a href="https://github.com/fernandoleano" className="text-gray-400 hover:text-white mt-4 md:mt-0">
