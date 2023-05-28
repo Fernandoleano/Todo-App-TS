@@ -3,8 +3,9 @@
 Welcome to the Todo App! This application helps you stay organized and manage your tasks effectively.
 
 TaskMaster
-<img width="1439" alt="Screen Shot 2023-05-27 at 10 33 42 PM" src="https://github.com/Fernandoleano/Todo-App-TS/assets/68082556/86e4e27e-b0d4-4862-872e-120a82ae0af9">
-<img width="1221" alt="Screen Shot 2023-05-27 at 10 35 16 PM" src="https://github.com/Fernandoleano/Todo-App-TS/assets/68082556/aa10be4a-efba-4e12-9c2f-af2c0f958e4f">
+<img width="1440" alt="Screen Shot 2023-05-27 at 10 48 30 PM" src="https://github.com/Fernandoleano/Todo-App-TS/assets/68082556/7d948166-a271-401e-823b-fa6d4b5ff191">
+<img width="1440" alt="Screen Shot 2023-05-27 at 10 48 41 PM" src="https://github.com/Fernandoleano/Todo-App-TS/assets/68082556/79a8ecb8-69cf-456e-9d08-4dddd832ccbf">
+
 
 ## Features 🚀
 
